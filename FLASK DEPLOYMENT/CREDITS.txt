@@ -1,0 +1,35 @@
+
+
+||||. IMAGE CREDITS. ||||
+
+
+PIC01.jpg (Head computer) - Photo credit: Ting Ling Goay stock.adobe.com
+
+PIC02.jpg (BLUE BLUR BACKGROUND) - Photo credit: https://bmisw.com/home/blur-background-26350-27041-hd-wallpapers/
+
+NOK.jpg (BABY IN CAR) - Photo credit: https://www.etsy.com/listing/1315043131/baby-in-car-vinyl-decal-stickers-car-van?gpla=1&gao=1&
+
+OK.jpg (thumbs up) - Photo credit: Personal taken. 
+
+The rest of the images loaded are part of the Free HTML template: LANDED
+https://html5up.net/landed
+
+
+
+
+|||| HTML TEMPLATE. ||||
+
+
+HTML in this work was modified from the original template named "LANDED" downloaded from below link: 
+https://html5up.net/landed
+
+
+
+
+
+|||| PYTHON CODE ||||
+
+
+Code adapted from Youtube video "Deploy Machine Learning Models using Flask" from below link:
+https://www.youtube.com/watch?v=0nr6TPKlrN0
+
